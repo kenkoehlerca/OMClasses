@@ -1,0 +1,65 @@
+/* 
+    Document   : order
+    Created on : May 7, 2012, 4:42:22 PM
+    Author     : Ken
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+  display: block;
+}
+body {
+  font-family: Verdana, Arial;
+  font-size: 9pt;
+}
+td {
+  text-align: left;
+}
+.section {
+  font-size: 11pt;
+  font-weight: bold;
+  color: red;
+}
+.heading {
+  font-size: 10pt;
+  color: gray;
+}
+.heading2 {
+  font-size: 8pt;
+  color: gray;
+}
+.field {
+  padding-left: 80px;
+  min-width: 200px;
+  font-size: 9pt;
+  color: black;
+  font-weight: bold;
+}
+.questionnumber {
+  padding-left: 80px;
+  min-width: 10px;
+  font-size: 8pt;
+  color: black;
+  font-weight: bold;
+}
+.questionr1 {
+  padding-left: 0px;
+  min-width: 30px;
+}
+.question {
+  min-width: 400px;
+  font-size: 8pt;
+  color: black;
+  font-weight: bold;
+}
+.smallgray {
+  font-size: 7pt;
+  color: gray;
+}
+.submit {
+  background-color:  cadetblue;
+  font-weight:  bold;
+  border: outset 2px Gray;
+}
+
